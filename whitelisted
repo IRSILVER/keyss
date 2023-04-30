@@ -1,0 +1,5 @@
+local whitelistedusers = 
+{
+    '12321',
+    '123123'
+}
